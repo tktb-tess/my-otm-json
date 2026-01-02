@@ -11338,124 +11338,17 @@
   ],
   "examples": [
     {
-      "id": 18,
-      "sentence": "Natilzķ haðð ðynn apbel ģyeatenn.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 17
-      }
-    },
-    {
-      "id": 17,
-      "sentence": "Mąi vaiv and iķ eatað six dagas agan apblas.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 9
-      }
-    },
-    {
-      "id": 16,
-      "sentence": "Mąi vaiv and iķ eatað jystrędäģ apblas.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 8
-      }
-    },
-    {
-      "id": 23,
-      "sentence": "Tomorgenn villað huy eatan änn abpel.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 10
-      }
-    },
-    {
-      "id": 13,
-      "sentence": "Ða sind ðrau apblas.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 15
-      }
-    },
-    {
-      "id": 12,
-      "sentence": "Iķ eet änn apbel.",
-      "translation": "",
+      "id": 1,
+      "sentence": "Iķ byküwm Akane Tokotoba ģynamod.",
+      "translation": "私は斗琴庭暁響です。",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 2
+          "id": 194
         },
         {
-          "id": 25
-        },
-        {
-          "id": 27
-        }
-      ],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 1
-      }
-    },
-    {
-      "id": 11,
-      "sentence": "Iķ eat änn apbel.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 2
-        },
-        {
-          "id": 25
-        },
-        {
-          "id": 27
-        }
-      ],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 2
-      }
-    },
-    {
-      "id": 32,
-      "sentence": "Iķ lüv ðee.",
-      "translation": "君が好きだ。",
-      "supplement": "月が綺麗なやつ。 läjkjan とは異なり、それを好きな人には主格、それが好きな相手には対格をとる。",
-      "tags": [],
-      "words": [
-        {
-          "id": 23
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 6
+          "id": 297
         }
       ]
     },
@@ -11477,6 +11370,45 @@
         },
         {
           "id": 21
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sentence": "Hvat specializeerað Jee?",
+      "translation": "何を専攻していますか?",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 125
+        },
+        {
+          "id": 128
+        },
+        {
+          "id": 198
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sentence": "Jan iss maððan onr knörlezķing.",
+      "translation": "ヨンは数学を（継続的に）勉強している。",
+      "supplement": "「onr + 動名詞 + väzan動詞」 で習慣形を作る。 ",
+      "tags": [],
+      "words": [
+        {
+          "id": 15
+        },
+        {
+          "id": 124
+        },
+        {
+          "id": 139
+        },
+        {
+          "id": 138
         }
       ]
     },
@@ -11530,25 +11462,259 @@
       }
     },
     {
-      "id": 7,
-      "sentence": "Jan iss maððan onr knörlezķing.",
-      "translation": "ヨンは数学を（継続的に）勉強している。",
-      "supplement": "「onr + 動名詞 + väzan動詞」 で習慣形を作る。 ",
+      "id": 10,
+      "sentence": "Güdd night.",
+      "translation": "おやすみなさい。",
+      "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 15
+          "id": 97
         },
         {
-          "id": 124
-        },
-        {
-          "id": 139
-        },
-        {
-          "id": 138
+          "id": 155
         }
       ]
+    },
+    {
+      "id": 11,
+      "sentence": "Iķ eat änn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 2
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 27
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 2
+      }
+    },
+    {
+      "id": 12,
+      "sentence": "Iķ eet änn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 2
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 27
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 1
+      }
+    },
+    {
+      "id": 13,
+      "sentence": "Ða sind ðrau apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 15
+      }
+    },
+    {
+      "id": 14,
+      "sentence": "Hee iss eatend naw änn apbel.",
+      "translation": "",
+      "supplement": "「現在分詞 + väzan動詞」で進行形を表す。",
+      "tags": [],
+      "words": [
+        {
+          "id": 258
+        },
+        {
+          "id": 25
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 3
+      }
+    },
+    {
+      "id": 15,
+      "sentence": "Hew haðð ģyeaten änn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 172
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 4
+      }
+    },
+    {
+      "id": 16,
+      "sentence": "Mąi vaiv and iķ eatað jystrędäģ apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 8
+      }
+    },
+    {
+      "id": 17,
+      "sentence": "Mąi vaiv and iķ eatað six dagas agan apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 9
+      }
+    },
+    {
+      "id": 18,
+      "sentence": "Natilzķ haðð ðynn apbel ģyeatenn.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 17
+      }
+    },
+    {
+      "id": 19,
+      "sentence": "Güddenn morgen.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 97
+        },
+        {
+          "id": 52
+        }
+      ],
+      "offer": {
+        "catalog": "survival",
+        "number": 1
+      }
+    },
+    {
+      "id": 20,
+      "sentence": "Güdd ävnyng.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 97
+        },
+        {
+          "id": 163
+        }
+      ],
+      "offer": {
+        "catalog": "survival",
+        "number": 3
+      }
+    },
+    {
+      "id": 21,
+      "sentence": "Güddenn däģ.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 97
+        },
+        {
+          "id": 26
+        }
+      ],
+      "offer": {
+        "catalog": "survival",
+        "number": 2
+      }
+    },
+    {
+      "id": 22,
+      "sentence": "Jalķdäģ zviep iķ ģyfallen ljavvan in ðan jard.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 166
+        },
+        {
+          "id": 169
+        },
+        {
+          "id": 167
+        },
+        {
+          "id": 168
+        },
+        {
+          "id": 170
+        }
+      ],
+      "offer": {
+        "catalog": "zpdicDaily",
+        "number": 98
+      }
+    },
+    {
+      "id": 23,
+      "sentence": "Tomorgenn villað huy eatan änn abpel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 10
+      }
+    },
+    {
+      "id": 24,
+      "sentence": "Ðat n’iss nan apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 204
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 31
+      }
     },
     {
       "id": 25,
@@ -11576,165 +11742,56 @@
       }
     },
     {
-      "id": 14,
-      "sentence": "Hee iss eatend naw änn apbel.",
-      "translation": "",
-      "supplement": "「現在分詞 + väzan動詞」で進行形を表す。",
-      "tags": [],
-      "words": [
-        {
-          "id": 258
-        },
-        {
-          "id": 25
-        }
-      ],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 3
-      }
-    },
-    {
-      "id": 21,
-      "sentence": "Güddenn däģ.",
-      "translation": "",
+      "id": 26,
+      "sentence": "Huy n’zind naght fransuyzan.",
+      "translation": "彼らはフランス人ではない。",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 97
+          "id": 204
         },
         {
-          "id": 26
-        }
-      ],
-      "offer": {
-        "catalog": "survival",
-        "number": 2
-      }
-    },
-    {
-      "id": 19,
-      "sentence": "Güddenn morgen.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 97
-        },
-        {
-          "id": 52
-        }
-      ],
-      "offer": {
-        "catalog": "survival",
-        "number": 1
-      }
-    },
-    {
-      "id": 33,
-      "sentence": "Sä mune iss fejr.",
-      "translation": "月が綺麗ですね。",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 247
-        },
-        {
-          "id": 55
+          "id": 206
         }
       ]
     },
     {
-      "id": 20,
-      "sentence": "Güdd ävnyng.",
+      "id": 27,
+      "sentence": "Iķ hädd änn hattan disķ.",
       "translation": "",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 97
+          "id": 172
         },
         {
-          "id": 163
-        }
-      ],
-      "offer": {
-        "catalog": "survival",
-        "number": 3
-      }
-    },
-    {
-      "id": 10,
-      "sentence": "Güdd night.",
-      "translation": "おやすみなさい。",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 97
+          "id": 217
         },
         {
-          "id": 155
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "sentence": "Hvat iss ðis?",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 125
-        }
-      ],
-      "offer": {
-        "catalog": "survival",
-        "number": 19
-      }
-    },
-    {
-      "id": 4,
-      "sentence": "Hvat specializeerað Jee?",
-      "translation": "何を専攻していますか?",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 125
-        },
-        {
-          "id": 128
-        },
-        {
-          "id": 198
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "sentence": "Ðrynjends plawmanreines rind myzķel.",
-      "translation": "",
-      "supplement": "»plawmanręi« 「梅雨」はさほど一般的な名詞ではないので、説明的に言及されることも多い。",
-      "tags": [],
-      "words": [
-        {
-          "id": 238
-        },
-        {
-          "id": 144
-        },
-        {
-          "id": 227
+          "id": 218
         }
       ],
       "offer": {
         "catalog": "zpdicDaily",
-        "number": 100
+        "number": 124
+      }
+    },
+    {
+      "id": 28,
+      "sentence": "Iķ eet nänn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 305
+        }
+      ],
+      "offer": {
+        "catalog": "appleAlpha",
+        "number": 21
       }
     },
     {
@@ -11769,125 +11826,59 @@
       }
     },
     {
-      "id": 22,
-      "sentence": "Jalķdäģ zviep iķ ģyfallen ljavvan in ðan jard.",
+      "id": 31,
+      "sentence": "Ðrynjends plawmanreines rind myzķel.",
       "translation": "",
-      "supplement": "",
+      "supplement": "»plawmanręi« 「梅雨」はさほど一般的な名詞ではないので、説明的に言及されることも多い。",
       "tags": [],
       "words": [
         {
-          "id": 166
+          "id": 238
         },
         {
-          "id": 169
+          "id": 144
         },
         {
-          "id": 167
-        },
-        {
-          "id": 168
-        },
-        {
-          "id": 170
+          "id": 227
         }
       ],
       "offer": {
         "catalog": "zpdicDaily",
-        "number": 98
+        "number": 100
       }
     },
     {
-      "id": 27,
-      "sentence": "Iķ hädd änn hattan disķ.",
-      "translation": "",
-      "supplement": "",
+      "id": 32,
+      "sentence": "Iķ lüv ðee.",
+      "translation": "君が好きだ。",
+      "supplement": "月が綺麗なやつ。 läjkjan とは異なり、それを好きな人には主格、それが好きな相手には対格をとる。",
       "tags": [],
       "words": [
         {
-          "id": 172
+          "id": 23
         },
         {
-          "id": 217
+          "id": 2
         },
         {
-          "id": 218
-        }
-      ],
-      "offer": {
-        "catalog": "zpdicDaily",
-        "number": 124
-      }
-    },
-    {
-      "id": 15,
-      "sentence": "Hew haðð ģyeaten änn apbel.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 172
-        }
-      ],
-      "offer": {
-        "catalog": "appleAlpha",
-        "number": 4
-      }
-    },
-    {
-      "id": 39,
-      "sentence": "Mąjr meder bykum ģyjäven an apbel.",
-      "translation": "私の母はリンゴをもらった。",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 239
-        },
-        {
-          "id": 194
-        },
-        {
-          "id": 301
+          "id": 6
         }
       ]
     },
     {
-      "id": 1,
-      "sentence": "Iķ byküwm Akane Tokotoba ģynamod.",
-      "translation": "私は斗琴庭暁響です。",
+      "id": 33,
+      "sentence": "Sä mune iss fejr.",
+      "translation": "月が綺麗ですね。",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 194
+          "id": 247
         },
         {
-          "id": 297
+          "id": 55
         }
       ]
-    },
-    {
-      "id": 35,
-      "sentence": "Hvat bykumað Jee ģynamod?",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 297
-        },
-        {
-          "id": 194
-        },
-        {
-          "id": 198
-        }
-      ],
-      "offer": {
-        "catalog": "survival",
-        "number": 26
-      }
     },
     {
       "id": 34,
@@ -11909,34 +11900,25 @@
       }
     },
     {
-      "id": 26,
-      "sentence": "Huy n’zind naght fransuyzan.",
-      "translation": "彼らはフランス人ではない。",
-      "supplement": "",
-      "tags": [],
-      "words": [
-        {
-          "id": 204
-        },
-        {
-          "id": 206
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "sentence": "Ðat n’iss nan apbel.",
+      "id": 35,
+      "sentence": "Hvat bykumað Jee ģynamod?",
       "translation": "",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 204
+          "id": 297
+        },
+        {
+          "id": 194
+        },
+        {
+          "id": 198
         }
       ],
       "offer": {
-        "catalog": "appleAlpha",
-        "number": 31
+        "catalog": "survival",
+        "number": 26
       }
     },
     {
@@ -11972,20 +11954,38 @@
       }
     },
     {
-      "id": 28,
-      "sentence": "Iķ eet nänn apbel.",
+      "id": 38,
+      "sentence": "Hvat iss ðis?",
       "translation": "",
       "supplement": "",
       "tags": [],
       "words": [
         {
-          "id": 305
+          "id": 125
         }
       ],
       "offer": {
-        "catalog": "appleAlpha",
-        "number": 21
+        "catalog": "survival",
+        "number": 19
       }
+    },
+    {
+      "id": 39,
+      "sentence": "Mąjr meder bykum ģyjäven an apbel.",
+      "translation": "私の母はリンゴをもらった。",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        {
+          "id": 239
+        },
+        {
+          "id": 194
+        },
+        {
+          "id": 301
+        }
+      ]
     },
     {
       "id": 40,

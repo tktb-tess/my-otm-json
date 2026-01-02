@@ -1,19 +1,7 @@
 import otmjson from "./vl_ja.json" with { type: "json" };
 
-const words = otmjson.words;
+otmjson.words.sort((a, b) => a.entry.id - b.entry.id);
+otmjson.examples.sort((a, b) => a.id - b.id);
 
-for (const word of words) {
-  const pro = word.contents.find((c) => c.title === "Pronunciation");
-  if (!pro) {
-    continue;
-  }
-  const prev = pro.text;
-  pro.text = prev.replaceAll("ɤ", "ə").replaceAll("aɪ", "ɐɪ").replaceAll(
-    "aʊ",
-    "ɑʊ",
-  );
-}
-
-words.sort((a, b) => a.entry.id - b.entry.id);
-
-Deno.writeTextFileSync("./output.json", JSON.stringify(otmjson, null, 2));
+await Deno.mkdir('./out', { recursive: true });
+Deno.writeTextFileSync(`./out/vl_ja_${Date.now()}.json`, JSON.stringify(otmjson, null, 2));
